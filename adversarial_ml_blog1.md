@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title: "Adversarial Machine Learning"
 permalink: /blog1/
 ---
 
 Placeholder (hi!)
 ```
-x = 10;
+x = 1;
 ```
