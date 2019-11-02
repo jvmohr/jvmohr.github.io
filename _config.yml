@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: Eventually A Blog
 description: My place for eventual blog posts about (mostly) machine learning
 
-kramdown:
-  input: GFM
+markdown: kramdown
+highlighter: rouge
