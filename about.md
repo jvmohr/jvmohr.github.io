@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /about/
 ---
 
-<<<<<<< HEAD
+
 About Me Page...Under construction...
 
