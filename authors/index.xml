@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Joseph Mohr</title>
+    <link>https://jvmohr&gt;.github.io/authors/</link>
+      <atom:link href="https://jvmohr>.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://jvmohr&gt;.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://jvmohr&gt;.github.io/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jvmohr&gt;.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m a first year graduate student at the University of Wisconsin - Madison in the CS Department. I&amp;rsquo;m interested in ML, adversarial ML, and NLP. I got my bachelors from St. Norbert College with a double major in CS and mathematics (and a French certificate tossed in there to make my life even busier).&lt;/p&gt;
+&lt;p&gt;Will add more later; right now just for some blog posts&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://jvmohr&gt;.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jvmohr&gt;.github.io/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
